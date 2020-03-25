@@ -1,5 +1,7 @@
-def fun():
-    print("Hello World!")
-def main():
-    fun()
-main()
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
